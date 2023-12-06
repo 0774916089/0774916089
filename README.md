@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-0774916089/0774916089 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+0774916089/0774916089 is a ✨ special ✨special repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
